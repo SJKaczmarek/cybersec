@@ -154,7 +154,7 @@ Designed and implemented cybersecurity protocols for a Lunar Analog Habitat, foc
 ## Project 8: Family Office Cybersecurity Solution
 
 ### Overview
-Developed a bespoke cybersecurity framework for Family Offices, addressing the financial, legal, and privacy concerns of high-net-worth individuals and families.
+Developed a tailored cybersecurity framework for Family Offices, addressing the financial, legal, and privacy concerns of high-net-worth individuals and families.
 
 ### Objectives
 - Design of robust protection against cyber threats like phishing, ransomware, and identity theft.
