@@ -27,4 +27,4 @@ For a comprehensive overview of my professional journey, including my resume, ed
 
 ## Contact
 
-For collaborations, inquiries, or to connect professionally, kindly reach out via my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
+For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). For quicker responses, you can also connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
