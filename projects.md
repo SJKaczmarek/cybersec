@@ -1,6 +1,9 @@
 # Portfolio Projects
 
-## Table of Contents
+## Public Notice
+This portfolio is a public document and includes no sensitive or classified information. All the contents are suitable for general audiences and comply with confidentiality agreements.
+
+## Overview of Public Projects
 1. [Enterprise Network Security Audit](#project-1-enterprise-network-security-audit)
 2. [Small Business Security Enhancement](#project-2-small-business-security-enhancement)
 3. [Secure Satellite Communication](#project-3-secure-satellite-communication)
