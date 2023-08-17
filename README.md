@@ -12,7 +12,7 @@ I am Sylvester Kaczmarek, specializing in the crossroads of cybersecurity, AI, d
 - [Professional Statement](#professional-statement)
 - [LinkedIn & Personal Website](#linkedin--personal-website)
 - [Cybersecurity Tools & Skills](skills.md)
-- [Portfolio Projects](projects/)
+- [Portfolio Projects](projects.md)
 - [Contact](#contact)
 
 ## Professional Statement
