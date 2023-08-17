@@ -12,6 +12,7 @@ I am Sylvester Kaczmarek, specializing in the crossroads of cybersecurity, AI, d
 - [Professional Statement](#professional-statement)
 - [LinkedIn & Personal Website](#linkedin--personal-website)
 - [Cybersecurity Tools & Skills](skills.md)
+- [Cybersecurity Qualifications & Certifications](#cybersecurity-qualifications--certifications)
 - [Portfolio Projects](projects.md)
 - [Contact](#contact)
 
@@ -24,6 +25,10 @@ In an era where AI governs data, robots are becoming our co-workers, and space i
 For a comprehensive overview of my professional journey, including my resume, education, and certifications, please visit:
 - [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/)
 - [Personal Website](http://www.sylvesterkaczmarek.com)
+
+## Cybersecurity Qualifications & Certifications
+
+Details of relevant cyber courses, certifications, and academic achievements are shared upon request.
 
 ## Contact
 
