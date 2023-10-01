@@ -1,6 +1,11 @@
+---
+description: Space Cyber
+---
+
 # Sylvester Kaczmarek - Cybersecurity & Space Tech
 
 ## Public Notice
+
 This portfolio is a public document and includes no sensitive or classified information. All the contents are suitable for general audiences and comply with confidentiality agreements.
 
 ## Introduction
@@ -9,13 +14,13 @@ I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, sate
 
 ## Table of Contents
 
-- [Statement](#statement)
-- [Professional Overview & Publications](#professional-overview--publications)
-  - [Relevant Publications](#relevant-publications)
-- [Cybersecurity Tools & Skills](skills.md)
-- [Cybersecurity Qualifications & Certifications](#cybersecurity-qualifications--certifications)
-- [Portfolio Projects](projects.md)
-- [Contact](#contact)
+* [Statement](./#statement)
+* [Professional Overview & Publications](./#professional-overview--publications)
+  * [Relevant Publications](./#relevant-publications)
+* [Cybersecurity Tools & Skills](skills.md)
+* [Cybersecurity Qualifications & Certifications](./#cybersecurity-qualifications--certifications)
+* [Portfolio Projects](projects.md)
+* [Contact](./#contact)
 
 ## Statement
 
@@ -24,8 +29,9 @@ In an era where AI governs data, robots are becoming our co-workers, and space i
 ## Professional Overview & Publications
 
 For a comprehensive overview of my professional journey, including my resume, education, and certifications, please visit:
-- [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/)
-- [Personal Website](http://www.sylvesterkaczmarek.com)
+
+* [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/)
+* [Personal Website](http://www.sylvesterkaczmarek.com)
 
 ### Relevant Publications
 
@@ -43,7 +49,7 @@ Details of relevant cyber training, certifications, and academic achievements ar
 
 ## License
 
-All rights reserved. Unauthorized use, modification, distribution, or reproduction of this work is prohibited. See the [LICENSE](LICENSE) file for details.
+All rights reserved. Unauthorized use, modification, distribution, or reproduction of this work is prohibited. See the [LICENSE](LICENSE/) file for details.
 
 ## Contact
 
