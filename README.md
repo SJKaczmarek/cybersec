@@ -41,6 +41,10 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 
 Details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). For quicker responses, you can also connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
