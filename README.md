@@ -1,7 +1,3 @@
----
-description: Space Cyber
----
-
 # Sylvester Kaczmarek - Cybersecurity & Space Tech
 
 ## Public Notice
