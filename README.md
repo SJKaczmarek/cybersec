@@ -5,10 +5,7 @@ This portfolio is a public document and includes no sensitive or classified info
 
 ## Introduction
 
-//I am Sylvester Kaczmarek, specializing in the crossroads of cybersecurity, AI, data, space, and robotics. 
-//With an integrated approach to these domains, I ensure that the technology of tomorrow is secure and optimized today.
-
-I am Sylvester Kaczmarek, skilled in space robotics, satellite operations, autonomous systems, and secure data management, with a primary focus on their cybersecurity. My goal is to ensure these technologies are secure and optimized for today's challenges.
+I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, satellite operations, autonomous systems, and secure data management, with a primary emphasis on their cybersecurity. With an integrated approach to these domains, I ensure that the technology of tomorrow is secure and optimized today.
 
 ## Table of Contents
 
@@ -36,3 +33,5 @@ Details of relevant cyber courses, certifications, and academic achievements are
 ## Contact
 
 For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). For quicker responses, you can also connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
+
+
