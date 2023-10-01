@@ -43,7 +43,7 @@ Details of relevant cyber training, certifications, and academic achievements ar
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+All rights reserved. Unauthorized use, modification, distribution, or reproduction of this work is prohibited. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
