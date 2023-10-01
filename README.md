@@ -9,29 +9,38 @@ I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, sate
 
 ## Table of Contents
 
-- [Professional Statement](#professional-statement)
-- [LinkedIn & Personal Website](#linkedin--personal-website)
+- [Statement](#statement)
+- [Professional Overview & Publications](#professional-overview--publications)
+  - [Relevant Publications](#relevant-publications)
 - [Cybersecurity Tools & Skills](skills.md)
 - [Cybersecurity Qualifications & Certifications](#cybersecurity-qualifications--certifications)
 - [Portfolio Projects](projects.md)
 - [Contact](#contact)
 
-## Professional Statement
+## Statement
 
 In an era where AI governs data, robots are becoming our co-workers, and space is the new frontier, my mission in cybersecurity is not just to protect but to pave the way for innovations that transcend borders and reimagine boundaries. I am dedicated to ensuring that as we push the boundaries of what's technologically possible, we remain grounded in what's technologically secure.
 
-## LinkedIn & Personal Website
+## Professional Overview & Publications
 
 For a comprehensive overview of my professional journey, including my resume, education, and certifications, please visit:
 - [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/)
 - [Personal Website](http://www.sylvesterkaczmarek.com)
 
+### Relevant Publications
+
+In line with my ongoing contributions to the field, I have authored and co-authored various publications. Listed below are some of the latest publications that are not under NDA and are unclassified:
+
+1. [Space Cybersecurity: Protecting Our Final Frontier](https://www.linkedin.com/pulse/space-cybersecurity-protecting-our-final-frontier-sylvester-kaczmarek/)
+2. [Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats](https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/)
+3. [Exploring Global Space Programs: Insights from the CIA's](https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek)
+
+For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
+
 ## Cybersecurity Qualifications & Certifications
 
-Details of relevant cyber courses, certifications, and academic achievements are shared upon request.
+Details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
 ## Contact
 
 For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). For quicker responses, you can also connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
-
-
