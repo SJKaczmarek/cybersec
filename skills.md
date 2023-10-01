@@ -39,9 +39,4 @@
 - **ISO 27001:** Implementation and compliance with global standards.
 - **NIST Cybersecurity Framework:** Alignment and application in various scenarios.
 
-## Certifications
-
-- **Certified Information Systems Security Professional (CISSP)**
-- **Certified Ethical Hacker (CEH)**
-
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sylvesterkaczmarek/) to discuss collaborations or professional inquiries.
