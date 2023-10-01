@@ -1,4 +1,4 @@
-# Sylvester Kaczmarek - Cybersecurity Portfolio
+# Sylvester Kaczmarek - Cybersecurity & Space Tech
 
 ## Public Notice
 This portfolio is a public document and includes no sensitive or classified information. All the contents are suitable for general audiences and comply with confidentiality agreements.
