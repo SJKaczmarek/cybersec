@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Publications Folder](README.md)
 * [Threat Modeling for Space Systems](threat-modeling-for-space-systems.md)
+* [Cognitive Warfare Strategies](cognitive-warfare-strategies.md)
