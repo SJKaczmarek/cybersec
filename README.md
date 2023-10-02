@@ -13,9 +13,9 @@ I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, sate
 * [Statement](./#statement)
 * [Professional Overview & Publications](./#professional-overview--publications)
   * [Relevant Publications](./#relevant-publications)
-* [Cybersecurity Tools & Skills](skills.md)
+* [Cybersecurity Tools & Skills](/resources/skills.md)
 * [Cybersecurity Qualifications & Certifications](./#cybersecurity-qualifications--certifications)
-* [Portfolio Projects](projects.md)
+* [Portfolio Projects](/resources/projects.md)
 * [Contact](./#contact)
 
 ## Statement
