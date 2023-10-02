@@ -1,4 +1,4 @@
-# Sylvester Kaczmarek's Showcase - Space, AI & Robotics Cybersecurity
+# Sylvester Kaczmarek - Space, AI & Robotics Cybersecurity
 
 ## Public Notice
 
