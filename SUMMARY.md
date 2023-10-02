@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Sylvester Kaczmarek - Cybersecurity & Space Tech](README.md)
+* [Sylvester Kaczmarek - Space, AI & Robotics Cybersecurity](README.md)
 * [Portfolio Projects](projects.md)
 * [Cybersecurity Tools & Skills](skills.md)
