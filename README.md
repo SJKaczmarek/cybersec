@@ -20,7 +20,7 @@ I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, sate
 
 ## Statement
 
-In an era where AI governs data, robots are becoming our co-workers, and space is the new frontier, my mission in cybersecurity is not just to protect but to pave the way for innovations that transcend borders and reimagine boundaries. I am dedicated to ensuring that as we push the boundaries of what's technologically possible, we remain grounded in what's technologically secure.
+In an era where AI governs data, robots are becoming our co-workers, and space is the new frontier, my mission in cybersecurity is not just to protect but to pave the way for innovations that transcend borders and reimagine boundaries. I aspire to be a leading figure in space cybersecurity, aiming to protect space assets and missions while pioneering innovative methods and protocols for the future of space technology and security. I am dedicated to ensuring that as we push the boundaries of what's technologically possible, we remain grounded in what's technologically secure.
 
 ## Professional Overview & Publications
 
