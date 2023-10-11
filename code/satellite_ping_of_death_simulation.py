@@ -107,11 +107,57 @@ def feedback_loop(attack_vector, packet_size):
     
     print("\nIt's essential to understand the implications of different attack vectors and packet sizes. Modern systems often have defenses in place against known attacks, but new vulnerabilities can always emerge. Continuous monitoring, updating, and testing are crucial for maintaining a secure system.")
 
-def integrate_real_tools():
-    print("Integrating with real-world tools...")
-    # For demonstration purposes, we'll use a simple ping command
-    import os
-    os.system("ping -c 4 192.168.0.10")  # Pinging the satellite
+def integrate_real_tools(target_ip):
+    print("\nIntegrating with real-world tools...")
+
+    # Using ping
+    print("\nUsing ping to check the connectivity to the target satellite:")
+    os.system(f"ping -c 4 {target_ip}")
+
+    # Using nmap for port scanning (assuming the satellite has open ports for the sake of simulation)
+    print("\nUsing nmap to scan the ports of the target satellite:")
+    os.system(f"nmap -p 1-100 {target_ip}")  # Scanning the first 100 ports for demonstration
+
+    # Using traceroute to trace the path packets take to reach the satellite
+    print("\nUsing traceroute to trace the path to the target satellite:")
+    os.system(f"traceroute {target_ip}")
+
+    print("\nIntegration with real-world tools completed.")
+
+def integrate_real_tools(target_ip):
+    while True:
+        print("\nIntegrating with real-world tools...")
+        print("Choose a tool to run:")
+        print("1: ping - Check connectivity to the target satellite")
+        print("2: nmap - Scan the ports of the target satellite")
+        print("3: traceroute - Trace the path to the target satellite")
+        print("4: Exit")
+        choice = input("Enter your choice (1/2/3/4): ")
+
+        if choice == '1':
+            print("\nUsing ping to check the connectivity to the target satellite:")
+            print("Ping is a network diagnostic tool used to test the reachability of a host on an IP network.")
+            # Using ping to check connectivity. The '-c 4' parameter specifies the number of packets to send.
+            os.system(f"ping -c 4 {target_ip}")
+
+        elif choice == '2':
+            print("\nUsing nmap to scan the ports of the target satellite:")
+            print("Nmap (Network Mapper) is a security scanner used to discover hosts and services on a computer network.")
+            # Using nmap for port scanning. The '-p 1-100' parameter specifies the range of ports to scan (in this case, the first 100 ports).
+            os.system(f"nmap -p 1-100 {target_ip}")
+
+        elif choice == '3':
+            print("\nUsing traceroute to trace the path to the target satellite:")
+            print("Traceroute is a network diagnostic tool used to display the route and measure transit delays of packets across an IP network.")
+            # Using traceroute to display the route packets take to reach the satellite.
+            os.system(f"traceroute {target_ip}")
+
+        elif choice == '4':
+            print("Exiting the tool integration.")
+            break
+
+        else:
+            print("Invalid choice. Please choose a valid option.")
 
 def main():
     introduction()
@@ -140,7 +186,7 @@ def main():
     handle_challenge(challenge, target_ip, packet_size)
 
     feedback_loop(attack_vector, packet_size)
-    integrate_real_tools()
+    integrate_real_tools(target_ip)
 
 if __name__ == "__main__":
     main()
