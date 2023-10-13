@@ -19,6 +19,7 @@
 
 - **Python:** Scripting for automation and security analysis.
 - **Bash:** Shell scripting for Linux systems.
+- **Rust:** Systems programming language with a focus on safety and performance. Used to develop a wide variety of software, including operating systems, embedded systems, web applications, and machine learning applications.
 
 ## Specialized Security
 
@@ -29,6 +30,7 @@
 - **Data Integrity Assurance:** Ensuring data integrity in critical communications.
 - **Control Systems Security:** Development of secure control systems.
 - **Algorithmic Security:** Implementing secure solutions for complex problems.
+- **Embedded & Embedded Systems Security:** Experience with securing RTOS and ensuring predictable responses in critical systems.
 
 ## Compliance & Regulations
 
