@@ -31,6 +31,7 @@
 - **Control Systems Security:** Development of secure control systems.
 - **Algorithmic Security:** Implementing secure solutions for complex problems.
 - **Embedded & Embedded Systems Security:** Experience with securing RTOS and ensuring predictable responses in critical systems.
+- **CCSDS Standards & Protocols:** Familiarity with space data system standards and their security considerations.
 
 ## Compliance & Regulations
 
