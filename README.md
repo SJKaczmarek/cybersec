@@ -41,7 +41,11 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 
 ## Cybersecurity Qualifications & Certifications
 
-Details of relevant cyber training, certifications, and academic achievements are shared upon request.
+| <img src="cisa_logo.png" alt="CISA" width="100"/> | <img src="nato_logo.png" alt="NATO" width="100"/> | <img src="google_logo.png" alt="Google" width="100"/> | <img src="ncsc_logo.png" alt="NCSC" width="100"/> |
+|:---:|:---:|:---:|:---:|
+| CISA | NATO | Google | NCSC |
+
+I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, NATO, Google, and the British Government's National Cyber Security Centre (NCSC). I hold cybersecurity certifications earned through rigorous training and exams provided by these organizations and many others. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
 ## License
 
