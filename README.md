@@ -64,7 +64,6 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 
 | <img src="cisa_logo.png" alt="CISA" width="100"/> | <img src="nato_logo.png" alt="NATO" width="100"/> | <img src="google_logo.png" alt="Google" width="100"/> |
 | <img src="ncsc_logo.png" alt="NCSC" width="100"/> | <img src="cisco_logo.png" alt="Cisco" width="100"/> | <img src="dcsa_logo.png" alt="DCSA" width="100"/> |
-
 | <img src="cisa_logo.png" alt="CISA" height="60"/> | <img src="nato_logo.png" alt="NATO" height="60"/> | <img src="google_logo.png" alt="Google" height="60"/> |
 | <img src="ncsc_logo.png" alt="NCSC" height="60"/> | <img src="cisco_logo.png" alt="Cisco" height="60"/> | <img src="dcsa_logo.png" alt="DCSA" height="60"/> |
 
