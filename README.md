@@ -47,7 +47,7 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 | <img src="cisa_logo.png" alt="CISA" height="60"/> | <img src="nato_logo.png" alt="NATO" height="60"/> | <img src="google_logo.png" alt="Google" height="60"/> | <img src="ncsc_logo.png" alt="NCSC" height="60"/> |
 |:---:|:---:|:---:|:---:|
 
-I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, NATO Allied Command Transformation, Google, and the British Government's National Cyber Security Centre (NCSC). I hold cybersecurity certifications earned through rigorous training and exams provided by these organizations and many others. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
+I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I hold cybersecurity certifications earned through rigorous training and exams provided by these organizations and many others. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
 ## License
 
