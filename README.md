@@ -41,28 +41,9 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 
 ## Cybersecurity Qualifications & Certifications
 
-| <img src="cisa_logo.png" alt="CISA" width="100"/> | <img src="nato_logo.png" alt="NATO" width="100"/> | <img src="google_logo.png" alt="Google" width="100"/> |
+| <img src="cisa_logo.png" alt="CISA" width="150"/> | <img src="nato_logo.png" alt="NATO" width="150"/> | <img src="google_logo.png" alt="Google" width="150"/> |
 |---|---|---|
-| <img src="ncsc_logo.png" alt="NCSC" width="100"/> | <img src="cisco_logo.png" alt="Cisco" width="100"/> | <img src="dcsa_logo.png" alt="DCSA" width="100"/> |
-
-## Cybersecurity Qualifications & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-    <td width="100" height="100"><img src="cisa_logo.png" alt="CISA" style="max-width:100%; max-height:100%"></td>
-    <td width="100" height="100"><img src="dcsa_logo.png" alt="DCSA" style="max-width:100%; max-height:100%"></td>
-    <td width="100" height="100"><img src="nato_logo.png" alt="NATO" style="max-width:100%; max-height:100%"></td>
-</tr>
-<tr>
-    <td width="100" height="100"><img src="google_logo.png" alt="Google" style="max-width:100%; max-height:100%"></td>
-    <td width="100" height="100"><img src="cisco_logo.png" alt="Cisco" style="max-width:100%; max-height:100%"></td>
-    <td width="100" height="100"><img src="ncsc_logo.png" alt="NCSC" style="max-width:100%; max-height:100%"></td>
-</tr>
-</table>
-
-</div>
+| <img src="ncsc_logo.png" alt="NCSC" width="150"/> | <img src="cisco_logo.png" alt="Cisco" width="150"/> | <img src="dcsa_logo.png" alt="DCSA" width="150"/> |
 
 I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I hold cybersecurity certifications earned through rigorous training and exams provided by these organizations and many others. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
