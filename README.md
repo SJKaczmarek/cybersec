@@ -33,9 +33,11 @@ For a comprehensive overview of my professional journey, including my resume, ed
 
 In line with my ongoing contributions to the field, I have authored and co-authored various publications. Listed below are some of the latest publications that are not under NDA and are unclassified:
 
-1. [Space Cybersecurity: Protecting Our Final Frontier](https://www.linkedin.com/pulse/space-cybersecurity-protecting-our-final-frontier-sylvester-kaczmarek/)
-2. [Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats](https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/)
-3. [Exploring Global Space Programs: Insights from the CIA's](https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek)
+1. [Space Cybersecurity: Protecting Our Final Frontier](https://www.linkedin.com/pulse/space-cybersecurity-protecting-our-final-frontier-sylvester-kaczmarek/) (LinkedIn Article)
+2. [Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats](https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/) (Personal Blog)
+3. [Exploring Global Space Programs: Insights from the CIA's](https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek) (LinkedIn Article)
+4. [Space Cyber Hacking](https://hakin9.org/space-cyber-hacking/) (Hakin9 Magazine)
+5. [Space Cyber Hacking](https://pentestmag.com/space-cyber-hacking/) (PenTest Magazine)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
