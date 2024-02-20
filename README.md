@@ -33,15 +33,16 @@ For a comprehensive overview of my professional journey, including my resume, ed
 
 In line with my ongoing contributions to the field, I have authored and co-authored various publications. Listed below are some of the latest publications that are not under NDA and are unclassified:
 
-1. [We Need Cybersecurity in Space to Protect Satellites](https://www.scientificamerican.com/article/we-need-cybersecurity-in-space-to-protect-satellites/) (Scientific American)
-2. [Space Cybersecurity: Protecting Our Final Frontier](https://www.linkedin.com/pulse/space-cybersecurity-protecting-our-final-frontier-sylvester-kaczmarek/) (LinkedIn Article)
-3. [Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats](https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/) (Personal Blog)
-4. [Exploring Global Space Programs: Insights from the CIA's](https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek) (LinkedIn Article)
-5. [Space Cyber Hacking](https://hakin9.org/space-cyber-hacking/) (Hakin9 Magazine)
-6. [What are robots thinking?](https://www.thersa.org/comment/2022/10/what-are-robots-thinking) (the Royal Society)
-7. [The Evolution of Space Industry Cybersecurity: Embracing Zero Trust](https://www.linkedin.com/pulse/evolution-space-industry-cybersecurity-embracing-zero-kaczmarek/) (LinkedIn Article)
-8. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/) (PenTest Magazine)
-9. [Cybersecure Lunar Rovers, Safeguarding Moon Exploration](https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html), co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
+1. [Cybersecurity for satellites is a growing challenge, as threats to space-based infrastructure grow](https://theconversation.com/cybersecurity-for-satellites-is-a-growing-challenge-as-threats-to-space-based-infrastructure-grow-223877) (The Conversation)
+2. [We Need Cybersecurity in Space to Protect Satellites](https://www.scientificamerican.com/article/we-need-cybersecurity-in-space-to-protect-satellites/) (Scientific American)
+3. [Space Cybersecurity: Protecting Our Final Frontier](https://www.linkedin.com/pulse/space-cybersecurity-protecting-our-final-frontier-sylvester-kaczmarek/) (LinkedIn Article)
+4. [Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats](https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/) (Personal Blog)
+5. [Exploring Global Space Programs: Insights from the CIA's](https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek) (LinkedIn Article)
+6. [Space Cyber Hacking](https://hakin9.org/space-cyber-hacking/) (Hakin9 Magazine)
+7. [What are robots thinking?](https://www.thersa.org/comment/2022/10/what-are-robots-thinking) (the Royal Society)
+8. [The Evolution of Space Industry Cybersecurity: Embracing Zero Trust](https://www.linkedin.com/pulse/evolution-space-industry-cybersecurity-embracing-zero-kaczmarek/) (LinkedIn Article)
+9. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/) (PenTest Magazine)
+10. [Cybersecure Lunar Rovers, Safeguarding Moon Exploration](https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html), co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
