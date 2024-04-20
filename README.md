@@ -44,6 +44,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 9. [The Evolution of Space Industry Cybersecurity: Embracing Zero Trust](https://www.linkedin.com/pulse/evolution-space-industry-cybersecurity-embracing-zero-kaczmarek/) (LinkedIn Article)
 10. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/) (PenTest Magazine)
 11. [Cybersecure Lunar Rovers, Safeguarding Moon Exploration](https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html), co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
+12. [Space cybersecurity: Protecting vital infrastructure beyond Earth’s atmosphere](https://www.innovationnewsnetwork.com/space-cybersecurity-protecting-vital-infrastructure-beyond-earths-atmosphere/46535/) (Innovation News Network)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
