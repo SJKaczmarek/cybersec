@@ -45,6 +45,9 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 10. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/) (PenTest Magazine)
 11. [Cybersecure Lunar Rovers, Safeguarding Moon Exploration](https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html), co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
 12. [Space cybersecurity: Protecting vital infrastructure beyond Earth’s atmosphere](https://www.innovationnewsnetwork.com/space-cybersecurity-protecting-vital-infrastructure-beyond-earths-atmosphere/46535/) (Innovation News Network)
+13. [Why the future of space exploration needs a lunar time zone](https://digitalfrontier.com/articles/moon-time-zone-spacex-blue-origin-bezos-musk) (Digital Frontier)
+14. [Why do we need coordinated moon time?](https://open.spotify.com/episode/4kgHybSJ5xk3JG6of1otAZ) (The Dispatch Podcast)
+15. [Cybersecurity Challenges in Space Exploration](https://www.cutter.com/article/cybersecurity-challenges-space-exploration) (Arthur D. Little)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
