@@ -48,6 +48,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 13. [Why the future of space exploration needs a lunar time zone](https://digitalfrontier.com/articles/moon-time-zone-spacex-blue-origin-bezos-musk) (Digital Frontier)
 14. [Why do we need coordinated moon time?](https://open.spotify.com/episode/4kgHybSJ5xk3JG6of1otAZ) (The Dispatch Podcast)
 15. [Cybersecurity Challenges in Space Exploration](https://www.cutter.com/article/cybersecurity-challenges-space-exploration) (Arthur D. Little)
+16. [How Unmanned Surface Vehicles Reshape Strategy for Taiwan](https://www.frontsight.vc/posts/how-unmanned-surface-vehicles-reshape-strategy-for-taiwan) (Frontsight Venture Capital)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
