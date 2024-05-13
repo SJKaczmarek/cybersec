@@ -51,6 +51,24 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 16. [Cybersecurity Challenges in Space Exploration](https://www.cutter.com/article/cybersecurity-challenges-space-exploration) (Arthur D. Little)
 17. [How Unmanned Surface Vehicles Reshape Strategy for Taiwan](https://www.frontsight.vc/posts/how-unmanned-surface-vehicles-reshape-strategy-for-taiwan) (Frontsight Venture Capital)
 
+1. <a href="https://theconversation.com/cybersecurity-for-satellites-is-a-growing-challenge-as-threats-to-space-based-infrastructure-grow-223877" target="_blank">Cybersecurity for satellites is a growing challenge, as threats to space-based infrastructure grow</a> (The Conversation)
+2. <a href="https://www.scientificamerican.com/article/we-need-cybersecurity-in-space-to-protect-satellites/" target="_blank">We Need Cybersecurity in Space to Protect Satellites</a> (Scientific American)
+3. <a href="https://www.cyberdefensemagazine.com/newsletters/march-2024/mobile/index.html#p=119" target="_blank">Securing the Stars: Addressing Cybersecurity Challenges in Space Exploration</a> (Cyber Defense Magazine)
+4. <a href="https://www.cybersecurityintelligence.com/blog/defending-space-assets-from-emerging-threats-7627.html" target="_blank">Defending Space Assets From Emerging Threats</a> (Cyber Security Intelligence)
+5. <a href="https://www.linkedin.com/pulse/space-cybersecurity-protecting-our-final-frontier-sylvester-kaczmarek/" target="_blank">Space Cybersecurity: Protecting Our Final Frontier</a> (LinkedIn Article)
+6. <a href="https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/" target="_blank">Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats</a> (Personal Blog)
+7. <a href="https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek" target="_blank">Exploring Global Space Programs: Insights from the CIA's</a> (LinkedIn Article)
+8. <a href="https://hakin9.org/space-cyber-hacking/" target="_blank">Space Cyber Hacking</a> (Hakin9 Magazine)
+9. <a href="https://www.thersa.org/comment/2022/10/what-are-robots-thinking" target="_blank">What are robots thinking?</a> (the Royal Society)
+10. <a href="https://www.linkedin.com/pulse/evolution-space-industry-cybersecurity-embracing-zero-kaczmarek/" target="_blank">The Evolution of Space Industry Cybersecurity: Embracing Zero Trust</a> (LinkedIn Article)
+11. <a href="https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/" target="_blank">Cybersecurity Measures in Modern Space Exploration</a> (PenTest Magazine)
+12. <a href="https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html" target="_blank">Cybersecure Lunar Rovers, Safeguarding Moon Exploration</a>, co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
+13. <a href="https://www.innovationnewsnetwork.com/space-cybersecurity-protecting-vital-infrastructure-beyond-earths-atmosphere/46535/" target="_blank">Space cybersecurity: Protecting vital infrastructure beyond Earth’s atmosphere</a> (Innovation News Network)
+14. <a href="https://digitalfrontier.com/articles/moon-time-zone-spacex-blue-origin-bezos-musk" target="_blank">Why the future of space exploration needs a lunar time zone</a> (Digital Frontier)
+15. <a href="https://open.spotify.com/episode/4kgHybSJ5xk3JG6of1otAZ" target="_blank">Why do we need coordinated moon time?</a> (The Dispatch Podcast)
+16. <a href="https://www.cutter.com/article/cybersecurity-challenges-space-exploration" target="_blank">Cybersecurity Challenges in Space Exploration</a> (Arthur D. Little)
+17. <a href="https://www.frontsight.vc/posts/how-unmanned-surface-vehicles-reshape-strategy-for-taiwan" target="_blank">How Unmanned Surface Vehicles Reshape Strategy for Taiwan</a> (Frontsight Venture Capital)
+
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
 ## Cybersecurity Qualifications & Certifications
