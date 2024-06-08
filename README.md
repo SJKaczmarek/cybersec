@@ -60,7 +60,7 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 |---|---|---|
 | <img src="ncsc_logo.png" alt="NCSC" width="135"/> | <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> |
 
-I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I hold cybersecurity certifications earned through rigorous training and exams provided by these organizations and many others. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
+I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I am certified ISO/IEC 27001:2022. I hold cybersecurity certifications earned through rigorous training and exams provided by these organizations and many others. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
 ## License
 
