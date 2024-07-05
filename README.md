@@ -61,7 +61,17 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 |---|---|---|
 | <img src="ncsc_logo.png" alt="NCSC" width="135"/> | <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> |
 
-I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I am certified ISO/IEC 27001:2022 and hold the Certificate of Cloud Security Knowledge with a score of 93%. I also completed the 9-month Google Cybersecurity Certification Program with 97.91% grade achieved, and earned the Ce-CSP certification after a rigorous 6-month program with 600+ hours of study, labs, assessments, and quizzes simulating real-world work environments, where I achieved top results and ranked #1. I'm a professor of Cryptography and Secure Communications for both MSc in Enterprise Cybersecurity and BSc in Modern Computer Science programs. I hold numerous additional cybersecurity certifications, demonstrating a wide range of knowledge and skills acquired through rigorous training and exams from various organizations. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
+### Cybersecurity Expertise
+
+I have received cybersecurity training from a variety of organizations, including CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I am certified ISO/IEC 27001:2022 and hold the Certificate of Cloud Security Knowledge with a score of 93%. I also completed the 9-month Google Cybersecurity Certification Program with 97.91% grade achieved, and earned the Ce-CSP certification after a rigorous 6-month program with 600+ hours of study, labs, assessments, and quizzes simulating real-world work environments, where I achieved top results and ranked #1. 
+
+### Academic Experience
+
+I'm a professor of Cryptography and Secure Communications for both MSc in Enterprise Cybersecurity and BSc in Modern Computer Science programs. 
+
+### Additional Information
+
+I hold numerous additional cybersecurity certifications, demonstrating a wide range of knowledge and skills acquired through rigorous training and exams from various organizations. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
 
 ## License
 
