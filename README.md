@@ -59,7 +59,7 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 
 | <img src="cisa_logo.png" alt="CISA" width="135"/> | <img src="nato_logo.png" alt="NATO" width="135"/> | <img src="google_logo.png" alt="Google" width="135"/> |
 |---|---|---|
-| <img src="ncsc_logo.png" alt="NCSC" width="135"/> | <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> |
+| <img src="ncsc_logo.png" alt="NCSC" width="135"/> | <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> | <img src="fema_logo.png" alt="NCSC" width="135"/> | 
 
 ### Cybersecurity Expertise
 
