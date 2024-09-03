@@ -52,6 +52,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 17. [AI Risks and Challenges: Bias, Misuse, Unintended Consequences, and Existential Threats](https://www.linkedin.com/pulse/ai-risks-challenges-bias-misuse-unintended-threats-kaczmarek-jlaee/) (Safe AI in the Quantum Era Newsletter)
 18. [How Unmanned Surface Vehicles Reshape Strategy for Taiwan](https://www.frontsight.vc/posts/how-unmanned-surface-vehicles-reshape-strategy-for-taiwan) (Frontsight Venture Capital)
 19. [Enhancing Urban Safety & Counter-Terrorism through Satellite Security](https://content.yudu.com/web/3zs7s/0A3zs7y/CSMSummer24/html/index.html?page=20&origin=reader) (City Security magazine)
+20. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
