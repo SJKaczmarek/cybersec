@@ -64,6 +64,7 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 |---|---|---|
 | <img src="ncsc_logo.png" alt="NCSC" width="135"/> | <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> |
 | <img src="fema_logo.png" alt="FEMA" width="135"/> | <img src="alan_turing_institute_logo.png" alt="Alan Turing Insitute" width="135"/> |
+| <img src="ncjtc_logo.png" alt="National Criminal Justice Training Center (NCJTC)" width="135"/> |
 
 ### Cybersecurity Expertise
 
