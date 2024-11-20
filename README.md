@@ -69,11 +69,11 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 
 I have received cybersecurity training from a variety of organizations, including multiple certified trainings from CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I am certified ISO/IEC 27001:2022 and hold the Certificate of Cloud Security Knowledge with a score of 93%. I also completed the 9-month Google Cybersecurity Certification Program with 97.91% grade achieved, and earned the Ce-CSP certification after a rigorous 6-month program with 600+ hours of study, labs, assessments, and quizzes simulating real-world work environments, where I achieved top results and ranked #1.
 
-In addition to my cybersecurity expertise, I have completed certified trainings with the Federal Emergency Management Agency (FEMA). These trainings underscore my commitment to comprehensive emergency response and crisis management, equipping me with the skills necessary to handle a wide range of crises effectively, ensuring the security and resilience of critical infrastructure in the face of diverse challenges.
+In addition to my cybersecurity expertise, I have completed certified trainings with the Federal Emergency Management Agency (FEMA), focusing on comprehensive emergency response and crisis management. I also trained with the National Criminal Justice Training Center (NCJTC), gaining skills to identify abuse, engage stakeholders, and develop prevention strategies using actionable frameworks. These trainings underscore my commitment to handling a wide range of crises effectively, ensuring the security and resilience of critical infrastructure, and addressing societal challenges in the face of diverse challenges.
 
 ### Academic Experience
 
-I’m a professor of Cryptography and Secure Communications for both the MSc in Enterprise Cybersecurity and the BSc in Modern Computer Science programs in Italy, and an associate professor of System Engineering, Cybersecurity, and AI/ML for Space Assets in Florida, US.
+I’m a professor of Cryptography and Secure Communications for both the MSc in Enterprise Cybersecurity and the BSc in Modern Computer Science programs in Italy, and an associate professor of System Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
 
 ### Additional Information
 
