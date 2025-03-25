@@ -2,27 +2,29 @@
 
 ## Public Notice
 
-This portfolio is a public document and includes no sensitive or classified information. All the contents are suitable for general audiences and comply with confidentiality agreements.
+This portfolio is a public document and contains no sensitive or classified information. All contents are suitable for general audiences and comply with all applicable confidentiality agreements.
 
 ## Introduction
 
-I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, satellite operations, autonomous systems, and secure data management, with a primary emphasis on their cybersecurity. With an integrated approach to these domains, I ensure that the technology of tomorrow is secure and optimized today. 
+I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, satellite operations, autonomous systems, and secure data management, with a primary emphasis on their cybersecurity. My integrated approach to these domains ensures that the technology of tomorrow is both secure and optimized today.
 
 ## Table of Contents
 
 * [Statement](./#statement)
-* [Professional Overview & Publications](./#professional-overview--publications)
+* [Professional Overview & Contributions](./#professional-overview--contributions)
   * [Relevant Publications](./#relevant-publications)
+  * [Books in Progress](./#books-in-progress)
+* [Cybersecurity Expertise & Credentials](./#cybersecurity-expertise--credentials)
 * [Cybersecurity Tools & Skills](/resources/skills.md)
-* [Cybersecurity Qualifications & Certifications](./#cybersecurity-qualifications--certifications)
+* [Cybersecurity Qualifications & Credentials](./#cybersecurity-qualifications--credentials)
 * [Portfolio Projects](/resources/projects.md)
 * [Contact](./#contact)
 
 ## Statement
 
-In an era where AI governs data, robots are becoming our co-workers, and space is the new frontier, my mission in cybersecurity is not just to protect but to pave the way for innovations that transcend borders and reimagine boundaries. I aspire to be a leading figure in space cybersecurity, aiming to protect space assets and missions while pioneering innovative methods and protocols for the future of space technology and security. I am dedicated to ensuring that as we push the boundaries of what's technologically possible, we remain grounded in what's technologically secure.
+In an era where AI governs data, robots are becoming our co-workers, and space is the new frontier, my mission in cybersecurity is not just to protect, but to pave the way for groundbreaking innovation. I aspire to be a leading figure in this field, securing space assets and missions while pioneering the development of next-generation security protocols and technologies for the future of space exploration. I am dedicated to ensuring that as we push the boundaries of what's technologically possible, we remain grounded in what's technologically secure.
 
-## Professional Overview & Publications
+## Professional Overview & Contributions
 
 For a comprehensive overview of my professional journey, including my resume, education, and certifications, please visit:
 
@@ -60,7 +62,14 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
-## Cybersecurity Qualifications & Certifications
+### Books in Progress
+
+I am currently authoring two books for leading academic publishers:
+
+*   **_The Future of Lunar Space Exploration: Autonomous Robotics, Business, and Socioeconomic Impact_** (Springer). This book provides a definitive analysis of the rapidly evolving landscape of lunar exploration, forecasting the critical roles of autonomous robotics, cybersecurity, AI, emerging commercial markets, and the profound societal implications of a sustained human presence on the Moon.
+*   **"Data Management and Privacy Concerns in AI"** (Chapter in _Integrating Business and AI_, Routledge, Taylor & Francis Group). This chapter addresses the urgent need for robust data governance and privacy frameworks in the age of AI, offering practical solutions and strategic insights for navigating the complex ethical and security challenges, particularly within the mission-critical aerospace and defense sectors.
+
+## Cybersecurity Qualifications & Credentials
 
 | <img src="cisa_logo.png" alt="CISA" width="135"/> | <img src="nato_logo.png" alt="NATO" width="135"/> | <img src="google_logo.png" alt="Google" width="135"/> | <img src="ncsc_logo.png" alt="NCSC" width="135"/> |
 |---|---|---|---|
@@ -74,14 +83,13 @@ I have received extensive cybersecurity training from a variety of organizations
 
 In addition to my cybersecurity expertise, I have completed certified trainings with the Federal Emergency Management Agency (FEMA), focusing on comprehensive emergency response and crisis management. I also completed certified training with the National Criminal Justice Training Center (NCJTC), in partnership with the United States Department of Justice (DOJ), Office of Justice Programs (OJP), and the Office of Juvenile Justice and Delinquency Prevention (OJJDP), gaining skills to identify abuse, engage stakeholders, and develop prevention strategies using actionable frameworks. These trainings underscore my commitment to handling a wide range of crises effectively, ensuring the security and resilience of critical infrastructure, and addressing societal challenges in the face of diverse challenges. My commitment to international security and cooperation extends to specialized training with the United Nations System Staff College in Peacekeeping-Intelligence, Surveillance, and Reconnaissance (PKISR), covering legal frameworks, operational processes, and management of PKISR activities in UN peacekeeping missions. I also completed a cyberdiplomacy training course from the United Nations Office for Disarmament Affairs, focusing on the work of the UN Group of Governmental Experts (GGEs) in addressing ICT threats in international security. Additionally, I completed training with the International Atomic Energy Agency (IAEA) on Information and Computer Security, with a focus on Secure Software Development, achieving a score of 98.72%, covering key areas such as authentication, encryption, and data validation.
 
+### Academic Roles
 
-### Academic Experience
+I serve as a professor of Cryptography and Secure Communications, and Secure Software Development for both the MSc in Enterprise Cybersecurity and BSc in Modern Computer Science programs in Italy, and as an associate professor of Systems Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
 
-I’m a professor of Cryptography and Secure Communications, and Secure Software Development for both the MSc in Enterprise Cybersecurity and the BSc in Modern Computer Science programs in Italy, and an associate professor of System Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
+### Additional Expertise and Credentials
 
-### Additional Information
-
-I hold numerous additional cybersecurity certifications, demonstrating a wide range of knowledge and skills acquired through rigorous training and exams from various organizations. Further details of relevant cyber training, certifications, and academic achievements are shared upon request.
+Beyond the core cybersecurity certifications listed above, I possess a range of specialized credentials and extensive experience across related fields, including advanced AI and autonomous systems. These were obtained through rigorous training, research, and practical application from globally recognized organizations and institutions. A comprehensive list of my training, certifications, and achievements is available upon request for qualified inquiries.
 
 ## License
 
@@ -89,4 +97,4 @@ All rights reserved. Unauthorized use, modification, distribution, or reproducti
 
 ## Contact
 
-For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). For quicker responses, you can also connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
+For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). I also welcome connections on [LinkedIn](https://www.linkedin.com/in/sylvesterkaczmarek/).
