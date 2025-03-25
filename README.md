@@ -67,6 +67,16 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 | <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> | <img src="fema_logo.png" alt="FEMA" width="135"/> | <img src="alan_turing_institute_logo.png" alt="Alan Turing Institute" width="135"/> |
 | <img src="the_United_States_Department_of_Justice_logo.png" alt="the United States Department of Justice (DOJ)" width="135"/> | <img src="ncjtc_logo.png" alt="National Criminal Justice Training Center (NCJTC)" width="135"/> |  |  |
 
+
+
+## Cybersecurity Qualifications & Certifications
+
+| <img src="cisa_logo.png" alt="CISA" width="135"/> | <img src="nato_logo.png" alt="NATO" width="135"/> | <img src="google_logo.png" alt="Google" width="135"/> | <img src="ncsc_logo.png" alt="NCSC" width="135"/> |
+|---|---|---|---|
+| <img src="cisco_logo.png" alt="Cisco" width="135"/> | <img src="dcsa_logo.png" alt="DCSA" width="135"/> | <img src="fema_logo.png" alt="FEMA" width="135"/> | <img src="alan_turing_institute_logo.png" alt="Alan Turing Institute" width="135"/> |
+| <img src="the_United_States_Department_of_Justice_logo.png" alt="the United States Department of Justice (DOJ)" width="135"/> | <img src="ncjtc_logo.png" alt="National Criminal Justice Training Center (NCJTC)" width="135"/> | <img src="united_nations_office_for_disarmament_affairs_logo.png" alt="United Nations Office for Disarmament Affairs" width="135"/> | <img src="infosec_logo.png" alt="Infosec" width="135"/> |
+| <img src="international_atomic_energy_agency_logo.png" alt="International Atomic Energy Agency" width="135"/> | <img src="united_nations_system_staff_college_logo.png" alt="United Nations System Staff College" width="135"/> | <img src="cloud_security_alliance_logo.png" alt="Cloud Security Alliance" width="135"/> |  |
+
 ### Cybersecurity Expertise
 
 I have received cybersecurity training from a variety of organizations, including multiple certified trainings from CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC). I am certified ISO/IEC 27001:2022 and hold the Certificate of Cloud Security Knowledge with a score of 93%. I also completed the 9-month Google Cybersecurity Certification Program with 97.91% grade achieved, and earned the Ce-CSP certification after a rigorous 6-month program with 600+ hours of study, labs, assessments, and quizzes simulating real-world work environments, where I achieved top results and ranked #1.
