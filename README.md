@@ -55,7 +55,8 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 20. [Enhancing Urban Safety & Counter-Terrorism through Satellite Security](https://content.yudu.com/web/3zs7s/0A3zs7y/CSMSummer24/html/index.html?page=20&origin=reader) (City Security magazine)
 21. [Biggest space dangers revealed as movie clichés debunked and spacewalks explained](https://www.dailystar.co.uk/news/latest-news/biggest-space-dangers-revealed-movie-33984829)
 22. [As threats to space-based infrastructure grow, cybersecurity for satellites is a growing challenge](https://www.business-reporter.co.uk/technology/cybersecurity-for-satellites-is-a-growing-challenge-as-threats-to-space-based-infrastructure-grow)
-23. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
+23. [DDoS Attacks Pose Increasing Threat to Satellite and Ground Operators](https://www.kratosdefense.com/constellations/articles/ddos-attacks-pose-increasing-threat-to-satellite-and-ground-operators)
+24. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
