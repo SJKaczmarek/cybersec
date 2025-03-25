@@ -16,7 +16,7 @@ I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, sate
   * [Relevant Publications](./#relevant-publications)
   * [Books in Progress](./#books-in-progress)
 * [Cybersecurity & Resilience Credentials](./#cybersecurity--resilience-credentials)
-* [Academic Roles](./#academic-roles)
+  * [Additional Expertise & Credentials](./#additional-expertise--credentials)
 * [Cybersecurity Tools & Skills](/resources/skills.md)
 * [Portfolio Projects](/resources/projects.md)
 * [License](./#license)
@@ -94,6 +94,14 @@ My commitment to international security and cooperation extends to specialized t
 ### Additional Expertise & Credentials
 
 Beyond the core cybersecurity certifications listed above, I possess a range of specialized credentials and extensive experience across related fields, including advanced AI and autonomous systems. These were obtained through rigorous training, research, and practical application from globally recognized organizations and institutions. A comprehensive list of my training, certifications, and achievements is available upon request for qualified inquiries.
+
+## Cybersecurity Tools & Skills
+
+Explore a comprehensive list of my technical skills, tools, and cybersecurity expertise across various domains, including specialized areas like space and AI security, on the [Cybersecurity Tools & Skills page](/resources/skills.md).
+
+## Portfolio Projects
+
+To see practical applications of my expertise, view selected project examples demonstrating security solutions across enterprise networks, satellite communications, UAVs, AI systems, and more on the [Portfolio Projects page](/resources/projects.md).
 
 ## License
 
