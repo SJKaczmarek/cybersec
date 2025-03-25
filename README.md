@@ -11,12 +11,11 @@ I am Sylvester Kaczmarek, specializing in the crossroads of space robotics, sate
 ## Table of Contents
 
 * [Statement](./#statement)
-* [Professional Overview & Contributions](./#professional-overview--contributions)
+* [Professional Overview & Contributions](./#professional-overview-contributions)
   * [Relevant Publications](./#relevant-publications)
   * [Books in Progress](./#books-in-progress)
-* [Cybersecurity Expertise & Credentials](./#cybersecurity-expertise--credentials)
+* [Cybersecurity & Resilience Credentials](./#cybersecurity-resilience-credentials)
 * [Cybersecurity Tools & Skills](/resources/skills.md)
-* [Cybersecurity Qualifications & Credentials](./#cybersecurity-qualifications--credentials)
 * [Portfolio Projects](/resources/projects.md)
 * [Contact](./#contact)
 
@@ -69,7 +68,9 @@ I am currently authoring two books for leading academic publishers:
 *   **_The Future of Lunar Space Exploration: Autonomous Robotics, Business, and Socioeconomic Impact_** (Springer). This book provides a definitive analysis of the rapidly evolving landscape of lunar exploration, forecasting the critical roles of autonomous robotics, cybersecurity, AI, emerging commercial markets, and the profound societal implications of a sustained human presence on the Moon.
 *   **"Data Management and Privacy Concerns in AI"** (Chapter in _Integrating Business and AI_, Routledge, Taylor & Francis Group). This chapter addresses the urgent need for robust data governance and privacy frameworks in the age of AI, offering practical solutions and strategic insights for navigating the complex ethical and security challenges, particularly within the mission-critical aerospace and defense sectors.
 
-## Cybersecurity Qualifications & Credentials
+## Cybersecurity & Resilience Credentials
+
+The following logos represent some of the key organizations from which I have received cybersecurity and resilience training and certifications:
 
 | <img src="cisa_logo.png" alt="CISA" width="135"/> | <img src="nato_logo.png" alt="NATO" width="135"/> | <img src="google_logo.png" alt="Google" width="135"/> | <img src="ncsc_logo.png" alt="NCSC" width="135"/> |
 |---|---|---|---|
@@ -77,9 +78,7 @@ I am currently authoring two books for leading academic publishers:
 | <img src="the_United_States_Department_of_Justice_logo.png" alt="the United States Department of Justice (DOJ)" width="135"/> | <img src="ncjtc_logo.png" alt="National Criminal Justice Training Center (NCJTC)" width="135"/> | <img src="united_nations_office_for_disarmament_affairs_logo.png" alt="United Nations Office for Disarmament Affairs" width="135"/> | <img src="infosec_logo.png" alt="Infosec" width="135"/> |
 | <img src="international_atomic_energy_agency_logo.png" alt="International Atomic Energy Agency" width="135"/> | <img src="united_nations_system_staff_college_logo.png" alt="United Nations System Staff College" width="135"/> | <img src="cloud_security_alliance_logo.png" alt="Cloud Security Alliance" width="135"/> |  |
 
-### Cybersecurity Expertise
-
-I have received extensive cybersecurity training from a variety of organizations, including multiple certified trainings from CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC).  I am certified ISO/IEC 27001:2022. I also completed the 9-month Google Cybersecurity Certification Program with 97.91% grade achieved, and earned the Ce-CSP certification after a rigorous 6-month program with 600+ hours of study, labs, assessments, and quizzes simulating real-world work environments, where I achieved top results and ranked #1. Furthermore, I have expanded my expertise with specialized training in AI Security from Infosec, covering the legal and technical aspects of AI governance and risk management. I hold the highly regarded Certificate of Cloud Security Knowledge (CCSK) from the Cloud Security Alliance, including v4 (with a score of 93%) and the latest v5 (achieving a score of 98%), demonstrating mastery of modern cloud security principles, including Zero Trust and DevSecOps.
+My expertise is validated by extensive training and certifications from these and other leading global organizations, including multiple certified trainings from CISA (Cybersecurity and Infrastructure Security Agency), a division of the United States Department of Homeland Security, DCSA (Defense Counterintelligence and Security Agency), a part of the United States Department of Defense (DoD), NATO Allied Command Transformation, Google, Cisco, and the British Government's National Cyber Security Centre (NCSC).  I am certified ISO/IEC 27001:2022. I also completed the 9-month Google Cybersecurity Certification Program with 97.91% grade achieved, and earned the Ce-CSP certification after a rigorous 6-month program with 600+ hours of study, labs, assessments, and quizzes simulating real-world work environments, where I achieved top results and ranked #1. Furthermore, I have expanded my expertise with specialized training in AI Security from Infosec, covering the legal and technical aspects of AI governance and risk management. I hold the highly regarded Certificate of Cloud Security Knowledge (CCSK) from the Cloud Security Alliance, including v4 (with a score of 93%) and the latest v5 (achieving a score of 98%), demonstrating mastery of modern cloud security principles, including Zero Trust and DevSecOps.
 
 In addition to my cybersecurity expertise, I have completed certified trainings with the Federal Emergency Management Agency (FEMA), focusing on comprehensive emergency response and crisis management. I also completed certified training with the National Criminal Justice Training Center (NCJTC), in partnership with the United States Department of Justice (DOJ), Office of Justice Programs (OJP), and the Office of Juvenile Justice and Delinquency Prevention (OJJDP), gaining skills to identify abuse, engage stakeholders, and develop prevention strategies using actionable frameworks. These trainings underscore my commitment to handling a wide range of crises effectively, ensuring the security and resilience of critical infrastructure, and addressing societal challenges in the face of diverse challenges. My commitment to international security and cooperation extends to specialized training with the United Nations System Staff College in Peacekeeping-Intelligence, Surveillance, and Reconnaissance (PKISR), covering legal frameworks, operational processes, and management of PKISR activities in UN peacekeeping missions. I also completed a cyberdiplomacy training course from the United Nations Office for Disarmament Affairs, focusing on the work of the UN Group of Governmental Experts (GGEs) in addressing ICT threats in international security. Additionally, I completed training with the International Atomic Energy Agency (IAEA) on Information and Computer Security, with a focus on Secure Software Development, achieving a score of 98.72%, covering key areas such as authentication, encryption, and data validation.
 
