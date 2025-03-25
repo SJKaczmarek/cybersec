@@ -75,7 +75,7 @@ In addition to my cybersecurity expertise, I have completed certified trainings 
 
 ### Academic Experience
 
-I’m a professor of Cryptography and Secure Communications for both the MSc in Enterprise Cybersecurity and the BSc in Modern Computer Science programs in Italy, and an associate professor of System Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
+I’m a professor of Cryptography and Secure Communications, and Secure Software Development for both the MSc in Enterprise Cybersecurity and the BSc in Modern Computer Science programs in Italy, and an associate professor of System Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
 
 ### Additional Information
 
